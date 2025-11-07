@@ -1,0 +1,5 @@
+ncftpput -R -v -u "dynamics2019" ftp.mpia.de public_html *
+
+ncftpput -R -v -u "anonymous" ftp.mpia.de pub/trifonov/NZP_HIRES/ ReadMe.txt
+
+ncftpput -R -v -u "trifonov" ftp.mpia.de public_html *_RVs
