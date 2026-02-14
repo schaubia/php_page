@@ -1,2 +1,2 @@
 # php_page
-a repo for the conferences php page for exorestart
+A repo containing the php codw for the Dynamic solar systems conference, part of the Exo-restart project.
